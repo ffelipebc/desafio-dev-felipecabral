@@ -1,0 +1,15 @@
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\bin\Debug\net8.0\CNAB.Model.deps.json
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\bin\Debug\net8.0\CNAB.Model.runtimeconfig.json
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\bin\Debug\net8.0\CNAB.Model.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\bin\Debug\net8.0\CNAB.Model.pdb
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.csproj.AssemblyReference.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.AssemblyInfoInputs.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.AssemblyInfo.cs
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.csproj.CoreCompileInputs.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.sourcelink.json
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\refint\CNAB.Model.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.pdb
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\CNAB.Model.genruntimeconfig.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Model\obj\Debug\net8.0\ref\CNAB.Model.dll

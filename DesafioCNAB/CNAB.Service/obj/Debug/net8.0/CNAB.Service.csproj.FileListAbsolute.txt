@@ -1,0 +1,16 @@
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\bin\Debug\net8.0\CNAB.Service.deps.json
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\bin\Debug\net8.0\CNAB.Service.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\bin\Debug\net8.0\CNAB.Service.pdb
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\bin\Debug\net8.0\CNAB.Model.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\bin\Debug\net8.0\CNAB.Model.pdb
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.csproj.AssemblyReference.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.AssemblyInfoInputs.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.AssemblyInfo.cs
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.csproj.CoreCompileInputs.cache
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.sourcelink.json
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Ser.AA7BAFD2.Up2Date
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\refint\CNAB.Service.dll
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\CNAB.Service.pdb
+C:\Trabalho\desafio-dev-felipecabral\DesafioCNAB\CNAB.Service\obj\Debug\net8.0\ref\CNAB.Service.dll

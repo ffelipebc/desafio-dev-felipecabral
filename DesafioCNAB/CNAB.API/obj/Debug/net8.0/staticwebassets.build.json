@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y4MGKZ1CUvpRhw8doNv8Ajy61Blyw0MB6HoJWz1h2WY=",
+  "Source": "CNAB.API",
+  "BasePath": "_content/CNAB.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

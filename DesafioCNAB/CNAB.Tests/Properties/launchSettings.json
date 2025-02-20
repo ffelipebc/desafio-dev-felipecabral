@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress"
+    },
+    "Project": {
+      "commandName": "Project"
+    }
+  }
+}

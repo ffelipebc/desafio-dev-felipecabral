@@ -1,0 +1,47 @@
+﻿@page
+@model CNAB.Frontend.Pages.TransacoesModel
+@{
+    ViewData["Title"] = "Lista de Transações";
+}
+
+<h2 class="text-center my-4">Lista de Transações</h2>
+
+<div class="container">
+    @foreach (var loja in Model.Lojas)
+    {
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h5 class="mb-0">@loja.Nome - <small>@loja.Dono</small></h5>
+            </div>
+            <div class="card-body">
+                <p class="fw-bold">Saldo Total: <span class="text-success">R$ @loja.SaldoTotal.ToString("N2")</span></p>
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>Data</th>
+                                <th>Valor</th>
+                                <th>CPF</th>
+                                <th>Cartão</th>
+                                <th>Tipo</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var transacao in loja.Transacoes)
+                            {
+                                <tr>
+                                    <td>@transacao.Data.ToShortDateString()</td>
+                                    <td class="text-end">R$ @transacao.Valor.ToString("N2")</td>
+                                    <td>@transacao.CPF</td>
+                                    <td>@transacao.Cartao</td>
+                                    <td>@transacao.Tipo.ToString()</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

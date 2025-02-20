@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CNAB.Frontend.props" />
+</Project>

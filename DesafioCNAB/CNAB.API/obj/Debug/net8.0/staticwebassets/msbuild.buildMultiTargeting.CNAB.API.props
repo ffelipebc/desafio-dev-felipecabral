@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CNAB.API.props" />
+</Project>

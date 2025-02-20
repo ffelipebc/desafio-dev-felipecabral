@@ -1,0 +1,17 @@
+﻿@page
+@model CNAB.Frontend.Pages.UploadModel
+@{
+    ViewData["Title"] = "Upload de Arquivo CNAB";
+}
+
+<h2>Upload de Arquivo CNAB</h2>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" name="arquivo" required />
+    <button type="submit">Enviar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}

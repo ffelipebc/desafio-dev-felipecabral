@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ws7ywfuSFDU=",
+  "success": true,
+  "projectFilePath": "C:\\Trabalho\\desafio-dev-felipecabral\\DesafioCNAB\\CNAB.Frontend\\CNAB.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ffeli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
